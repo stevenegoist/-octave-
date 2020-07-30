@@ -1,0 +1,10 @@
+We introduced a few changes to make all of the core GitHub features free for everyone. Private repositories with unlimited collaborators are now available for all GitHub accounts, and we’re reducing prices for some of our paid plans.
+
+The details
+We introduced a new GitHub Free plan for teams with unlimited collaborators in private repositories, 2,000 GitHub Actions minutes/month, and GitHub Community Support.
+You now have unlimited collaborators in private repositories as part of your GitHub Free plan.
+Monthly pricing for our Pro plan has been reduced from $7/month to $4/month.
+Monthly pricing for our paid Team plan has been reduced from $9/user to $4/user.
+Actions minutes and Packages storage will continue to be free for all public repositories.
+Learn more
+Take a look at our FAQ or compare plans on our pricing page for more information on these changes.
